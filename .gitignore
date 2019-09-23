@@ -1,6 +1,8 @@
 node_modules/
 
 /client/build
+/client/config/default.json
+/client/config/production.json
 
 .DS_Store
 /client/.env.local
